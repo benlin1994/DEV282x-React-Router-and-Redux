@@ -4,10 +4,13 @@
 
 In this tutorial lab, we will be state logic behind a restaurant management system using Redux. We will the tie the state logic to React components in Module 3's tutorial lab. The finished application should look like this:
 
-ACTUAL FINISHED:
-https://codesandbox.io/s/lr8nn59loz
-REDUX FINISHED:
+
+Part 1 Finished:
 https://codesandbox.io/s/934rx9q00p
+
+Part 2 Finished:
+https://codesandbox.io/s/lr8nn59loz
+
 
 Here are a list of features that our application will have:
 
